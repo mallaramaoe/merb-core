@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add docstrings to new HUB functions (#7576)
