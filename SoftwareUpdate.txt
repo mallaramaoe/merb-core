@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
