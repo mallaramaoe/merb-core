@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+New HUB Cloud Training docs page (#8174)
