@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Update CI.md with CI links (#8786)
