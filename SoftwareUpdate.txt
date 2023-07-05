@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
