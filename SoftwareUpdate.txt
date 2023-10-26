@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Update Twitter icon in Docs (#7711)
