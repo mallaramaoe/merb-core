@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Update OpenVINO INT8 export (#7515)
