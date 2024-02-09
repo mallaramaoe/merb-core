@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Add settings runs_dir == datasets_dir warning (#8653)
