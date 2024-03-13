@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+fix predict with class filter
