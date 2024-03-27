@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Add HUB-SDK Docs reference section (#7781)
