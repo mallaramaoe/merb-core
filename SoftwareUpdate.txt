@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
