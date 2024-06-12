@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Fix Multi-GPU resume bug (#7328)
